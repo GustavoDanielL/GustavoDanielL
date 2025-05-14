@@ -3,10 +3,6 @@
 Brasília, DF | (61) 98137-4349 | gusdaniel.devmail@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin.com/in/gustavodaniellopes/)
 
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
 
 ## TechStack 
 - **Power Platform** (PowerApps, Power BI, Power Automate),  **Google Earth**
