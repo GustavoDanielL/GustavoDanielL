@@ -3,6 +3,10 @@
 Brasília, DF | (61) 98137-4349 | gusdaniel.devmail@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin.com/in/gustavodaniellopes/)
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
 
 ## TechStack
 - **Power Platform** (PowerApps, Power BI, Power Automate),  **Google Earth**
@@ -27,13 +31,6 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
 [![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)](#)
 
-# The Github Stats
-[![G. Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDanielL&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/GustavoDanielL/)
-# The programming stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDanielL&langs_count=6&layout=compact&theme=transparent)](https://github.com/GustavoDanielL/)
-## Time stats
-[![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoDanielL&theme=transparent)](https://github.com/GustavoDanielL)
-
 
 
 ## Formação Acadêmica
@@ -45,5 +42,10 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 **Centro Interescolar de Línguas de Ceilândia** | **Jun 2017 - Jun 2020**
 
 ---
-
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
 
