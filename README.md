@@ -1,7 +1,6 @@
 # Gustavo Daniel Lopes da Costa
 ### Cientista de Dados | Engenheiro de Software  
 Brasília, DF | (61) 98137-4349 | gusdaniel.devmail@gmail.com  
-GitHub: [https://github.com/GustavoDanielL](https://github.com/GustavoDanielL)  
 LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin.com/in/gustavodaniellopes/)
 
 
