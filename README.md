@@ -7,6 +7,7 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 
 ## TechStack
 - **Power Platform** (PowerApps, Power BI, Power Automate),  **Google Earth**
+  
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
