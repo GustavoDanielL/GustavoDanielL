@@ -28,10 +28,14 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 [![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)](#)
 
 <div align="center">
-<p>Have a good day!</p>
-<div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR6MjcydDExaTgzeTFwMmVhNnVwcHR2eHZoN3ZuM3B6M2J5ejdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Smiley" align="center">
-</div>
+  <div>
+    <img 
+      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR6MjcydDExaTgzeTFwMmVhNnVwcHR2eHZoN3ZuM3B6M2J5ejdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" 
+      alt="Smiley" 
+      align="center"
+      width="200px" <!-- Define a largura -->
+    >
+  </div>
 </div>
 
 
