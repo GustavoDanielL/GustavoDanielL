@@ -8,7 +8,7 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 </div>
 
 
-## TechStack
+## TechStack 
 - **Power Platform** (PowerApps, Power BI, Power Automate),  **Google Earth**
   
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#)
@@ -33,7 +33,7 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 
 
 
-## Formação Acadêmica
+## Formação Acadêmica 👨‍🎓
 
 ### **Bacharelado em Engenharia de Software**  
 **Universidade Cruzeiro do Sul** | **Jan 2020 - Jun 2025 (Previsão)**
