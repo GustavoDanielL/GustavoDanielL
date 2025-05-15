@@ -37,13 +37,10 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 ### **Inglês**  
 **Centro Interescolar de Línguas de Ceilândia** | **Jun 2017 - Jun 2020**
 
-
 # The Github Stats
 [![J. Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDanielL&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/GustavoDanielL/)
 # The programming stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDanielL&langs_count=6&layout=compact&theme=transparent)](https://github.com/GustavoDanielL/)
-## Time stats
-[![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoDanielL&theme=transparent)](https://github.com/GustavoDanielL)
 
 ---
 <div align="center">
