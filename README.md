@@ -34,9 +34,6 @@ LinkedIn: [https://www.linkedin.com/in/gustavodaniellopes/](https://www.linkedin
 ### **Bacharelado em Engenharia de Software**  
 **Universidade Cruzeiro do Sul** | **Jan 2020 - Jun 2025 (Previsão)**
 
-### **Inglês**  
-**Centro Interescolar de Línguas de Ceilândia** | **Jun 2017 - Jun 2020**
-
 # The Github Stats
 [![J. Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDanielL&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/GustavoDanielL/)
 # The programming stats
